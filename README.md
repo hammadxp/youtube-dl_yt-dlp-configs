@@ -11,7 +11,7 @@ I personally use yt-dlp fork over youtube-dl because it has fixed some bugs (esp
 Just replace "\*.conf" with the config filename.
 
 ```
-yt-dlp --config-locations "D:\YOUR CONFIG PATH\youtube-dl *.conf" URL
+yt-dlp --config-locations "D:\YOUR CONFIG PATH\*.conf" URL
 ```
 
 ### Note:
